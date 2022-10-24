@@ -12,7 +12,7 @@ name = 'Vitalik'
 
 print(f"{name} start programming at {datetime.now()}")
 ```
-    ![text](/1_lab/pictures/Screenshot%202022-10-24%20194101.png)
+![text](/1_lab/pictures/Screenshot%202022-10-24%20194101.png)
 - Результати виконання завдання *2*;
 ![text1](/1_lab/pictures/Screenshot%202022-10-24%20195107.png)
 - Результати виконання завдання *3*;
