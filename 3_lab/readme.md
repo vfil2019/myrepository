@@ -6,12 +6,12 @@
 - Результати виконання завдання:
     1. Що вивела програма:
 
-        ![alt text](/3_lab/pictures/Screenshot%202022-10-25%20164315.png)
+![123](/3_lab/pictures/lab-3(1).png)
     
     3. Додав своє ім'я
 
-        ![alt text](/3_lab/pictures/Screenshot%202022-10-25%20164356.png)
-        ![alt text](/3_lab/pictures/Screenshot%202022-10-25%20165201.png)
+![text1](/3_lab/pictures/lab-3(2).png)
+![text1](/3_lab/pictures/lab-3(3).png)
 
     
     4. Відповіді на запитання:
@@ -23,9 +23,9 @@
         ```
         - Допишіть функцію в класі яка порахує кількість букв в імені (підказка: використайте функцію `len()`);  
         
-        ![alt text](/3_lab/pictures/Screenshot%202022-10-25%20170559.png)
-        ![alt text](/3_lab/pictures/Screenshot%202022-10-25%20170616.png)
-        ![alt text](/3_lab/pictures/Screenshot%202022-10-25%20170541.png)
+![text1](/3_lab/pictures/lab-3(4).png)
+![text1](/3_lab/pictures/lab-3(5).png)
+![text1](/3_lab/pictures/lab-3(6).png)
     
 ### Висновок: 
 - Я ознайомився з ООП на Python;
