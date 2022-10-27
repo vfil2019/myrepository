@@ -5,7 +5,7 @@
 ### Виконання роботи
     1. Основні типи даних
 
-    ![alt text](/2_lab/pictures/Screenshot%202022-10-25%20143934.png)
+    ![alt text](https://github.com/vfil2019/myrepository/blob/main/screenshots/lab-2(1).png?raw=true)
     
     2. Вбудовані константи
 
