@@ -13,28 +13,28 @@
     
     3. Результат роботи вбудованих функцій
 
-    ![alt text](/2_lab/pictures/lab-2(3).png)
+![alt text](/2_lab/pictures/lab-2(3).png)
     
     4. Цикли
 
-    ![alt text](/2_lab/pictures/lab-2(4).png)
+![alt text](/2_lab/pictures/lab-2(4).png)
     
     5. Розгалуження
 
-    ![alt text](/2_lab/pictures/lab-2(5).png)
+![alt text](/2_lab/pictures/lab-2(5).png)
     
     6. Конструкція try->except->finally
 
-    ![alt text](/2_lab/pictures/lab-2(6).png)
+![alt text](/2_lab/pictures/lab-2(6).png)
     
     7. Контекст-менеджер with
 
-    ![alt text](/2_lab/pictures/lab-2(7).png)
+![alt text](/2_lab/pictures/lab-2(7).png)
 
-    ![alt text](/2_lab/pictures/lab-2(8).png)
+![alt text](/2_lab/pictures/lab-2(8).png)
     
     8. Lambda
-    ![alt text](/2_lab/pictures/lab-2(9).png)
+![alt text](/2_lab/pictures/lab-2(9).png)
    
 
 ### Висновок: 
