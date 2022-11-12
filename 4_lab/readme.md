@@ -41,8 +41,7 @@
         ![alt text](/4_lab/pictures/Screenshot%202022-11-12%20132627.png "10")
 
     7. Встановив бібліотеку з Pypi:
-
-        ![alt text](/4_lab/pictures/Screenshot%202022-11-12%20133001.png"11")
+        ![alt text](/4_lab/pictures/Screenshot%202022-11-12%20133001.png "11")
 
     8. Змінив Python інтерпретатор. 
 
